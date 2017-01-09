@@ -1,5 +1,6 @@
 require 'knock'
 require 'knock/authenticable'
+require 'knock/auth_token'
 require 'grape/knock/forbidden_error'
 require 'grape/knock/methods'
 
